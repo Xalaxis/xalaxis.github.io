@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mx1.wolfie.ovh
+mx: mx2.wolfie.ovh
+max_age: 86400
